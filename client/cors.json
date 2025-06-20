@@ -1,6 +1,6 @@
 [
     {
-      "origin": ["http://localhost:3000"],
+      "origin": ["http://localhost:3000","https://task-manager-ashen-two.vercel.app"],
       "method": ["GET", "POST", "PUT", "DELETE"],
       "responseHeader": ["Content-Type"],
       "maxAgeSeconds": 3600
